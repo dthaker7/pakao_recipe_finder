@@ -1,6 +1,13 @@
-![Sign In Page](screenshots/sign_in.jpg)
-![Home Page](screenshot/home_page.jpg)
-![Recipe Recommendation](screenshots/recommendation.jpg) (search page)
-![Calorie Tracker](screenshots/calorie.jpg)
-![Calorie Intake Calculator](screenshots/calorie_intake.jpg)
-![Settings Page](screenshots/settings_page.jpg)
+## Overview
+This mobile app recommends recipes based on available ingredients and helps users track their calorie intake. Designed to promote healthier eating habits, it integrates intelligent meal planning, nutritional analysis, and a user-friendly interface.
+
+Developed using **Flutter** for the front-end and **Firebase** for the back-end, the app leverages **Python** for AI/ML-based recommendation logic.
+
+---
+
+## Features
+- Recommend recipes based on the ingredients available in the user's kitchen.  
+- Track daily calorie intake with a built-in calorie counter.  
+- Intelligent meal planning using machine learning algorithms.  
+- Nutritional analysis for each recipe.  
+- User authentication and personalized data storage using Firebase.
